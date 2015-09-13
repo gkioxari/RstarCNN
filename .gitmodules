@@ -1,0 +1,3 @@
+[submodule "caffe-fast-rcnn"]
+	path = caffe-fast-rcnn
+	url = https://github.com/gkioxari/caffe-fast-rcnn.git
