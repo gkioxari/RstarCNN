@@ -37,17 +37,17 @@ If you use R\*CNN, please consider citing:
   WITH_PYTHON_LAYER := 1
 
   ```
-  2. Python packages you might not have: `cython`, `python-opencv`, `easydict`
+2. Python packages you might not have: `cython`, `python-opencv`, `easydict`
 
- ### Installation
+### Installation
 
- 1. Clone the RstarCNN repository
+1. Clone the RstarCNN repository
   	```Shell
   	# Make sure to clone with --recursive
   	git clone --recursive https://github.com/gkioxari/RstarCNN.git
   	```
 
- 2. Build the Cython modules
+2. Build the Cython modules
  	``` Shell
  	cd $ROOT/lib
  	make
