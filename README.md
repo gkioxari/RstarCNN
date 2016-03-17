@@ -92,11 +92,15 @@ Test a R\*CNN classifier
 
 	Download the data from [here](http://www.cs.berkeley.edu/~gkioxari/RstarCNN/BAPD.tar.gz) and place them inside the `$ROOT/data` directory
 
-3. Reference models
+4. Stanford 40 Dataset
+      
+      Download the data from [here](http://www.cs.berkeley.edu/~gkioxari/RstarCNN/Stanford40.tar.gz) and place them inside `$ROOT/data` directory. R*CNN achieves 90.85% on the test set (trained models provided in 6)
+
+5. Reference models
 	
 	Download the VGG16 reference model trained on ImageNet from [here](http://www.cs.berkeley.edu/~gkioxari/RstarCNN/reference_models.tar.gz)
 
-4. Trained models
+6. Trained models
 	
 	Download the models as described in the paper from [here](http://www.cs.berkeley.edu/~gkioxari/RstarCNN/trained_models.tar.gz)
 
