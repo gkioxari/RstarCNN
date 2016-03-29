@@ -98,11 +98,11 @@ Test a R\*CNN classifier
 
 4. Reference models
 	
-	Download the VGG16 reference model trained on ImageNet from [here](http://www.cs.berkeley.edu/~gkioxari/RstarCNN/reference_models.tar.gz)
+	Download the VGG16 reference model trained on ImageNet from [here](http://www.cs.berkeley.edu/~gkioxari/RstarCNN/reference_models.tar.gz) (500M)
 
 5. Trained models
 	
-	Download the models as described in the paper from [here](http://www.cs.berkeley.edu/~gkioxari/RstarCNN/trained_models.tar.gz)
+	Download the models as described in the paper from [here](http://www.cs.berkeley.edu/~gkioxari/RstarCNN/trained_models.tar.gz) (3.6G)
 
 
 
