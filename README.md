@@ -1,6 +1,8 @@
 # R\*CNN
 Source code for R\*CNN, created by Georgia Gkioxari at UC Berkeley.
 
+[![Gitter](https://badges.gitter.im/gkioxari/RstarCNN.svg)](https://gitter.im/gkioxari/RstarCNN?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 ### Introduction
 
 R\*CNN was initialiy described in an [arXiv tech report] (http://arxiv.org/abs/1505.01197)
