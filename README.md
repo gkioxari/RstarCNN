@@ -88,23 +88,23 @@ Test a R\*CNN classifier
 
 	Place the VOCdevkit2012 inside the `$ROOT/data` directory
 
-	Download the selective search regions for the images from [here](http://www.cs.berkeley.edu/~gkioxari/RstarCNN/ss_voc2012.tar.gz) and place them inside the `$ROOT/data/cache` directory
+	Download the selective search regions for the images from [here](https://www.cs.berkeley.edu/~gkioxari/RstarCNN/ss_voc2012.tar.gz) and place them inside the `$ROOT/data/cache` directory
 
 2. Berkeley Attributes of People Dataset
 
-	Download the data from [here](http://www.cs.berkeley.edu/~gkioxari/RstarCNN/BAPD.tar.gz) and place them inside the `$ROOT/data` directory
+	Download the data from [here](https://www.cs.berkeley.edu/~gkioxari/RstarCNN/BAPD.tar.gz) and place them inside the `$ROOT/data` directory
 
 3. Stanford 40 Dataset
       
-      Download the data from [here](http://www.cs.berkeley.edu/~gkioxari/RstarCNN/Stanford40.tar.gz) and place them inside `$ROOT/data` directory. R*CNN achieves 90.85% on the test set (trained models provided in 5)
+      Download the data from [here](https://www.cs.berkeley.edu/~gkioxari/RstarCNN/Stanford40.tar.gz) and place them inside `$ROOT/data` directory. R*CNN achieves 90.85% on the test set (trained models provided in 5)
 
 4. Reference models
 	
-	Download the VGG16 reference model trained on ImageNet from [here](http://www.cs.berkeley.edu/~gkioxari/RstarCNN/reference_models.tar.gz) (500M)
+	Download the VGG16 reference model trained on ImageNet from [here](https://www.cs.berkeley.edu/~gkioxari/RstarCNN/reference_models.tar.gz) (500M)
 
 5. Trained models
 	
-	Download the models as described in the paper from [here](http://www.cs.berkeley.edu/~gkioxari/RstarCNN/trained_models.tar.gz) (3.6G)
+	Download the models as described in the paper from [here](https://www.cs.berkeley.edu/~gkioxari/RstarCNN/trained_models.tar.gz) (3.6G)
 
 
 
