@@ -5,7 +5,7 @@ Source code for R\*CNN, created by Georgia Gkioxari at UC Berkeley.
 
 ### Introduction
 
-R\*CNN was initialiy described in an [arXiv tech report] (http://arxiv.org/abs/1505.01197)
+R\*CNN was initialiy described in an [arXiv tech report](http://arxiv.org/abs/1505.01197)
 
 ### License 
 
@@ -88,23 +88,23 @@ Test a R\*CNN classifier
 
 	Place the VOCdevkit2012 inside the `$ROOT/data` directory
 
-	Download the selective search regions for the images from [here](https://www.cs.berkeley.edu/~gkioxari/RstarCNN/ss_voc2012.tar.gz) and place them inside the `$ROOT/data/cache` directory
+	Download the selective search regions for the images from [here](https://www.dropbox.com/s/n9cc6g72u84zhn7/ss_voc2012.tar.gz?dl=0) and place them inside the `$ROOT/data/cache` directory
 
 2. Berkeley Attributes of People Dataset
 
-	Download the data from [here](https://www.cs.berkeley.edu/~gkioxari/RstarCNN/BAPD.tar.gz) and place them inside the `$ROOT/data` directory
+	Download the data from [here](https://www.dropbox.com/s/0k7i5u03xqjl32h/BAPD.tar.gz?dl=0) and place them inside the `$ROOT/data` directory
 
 3. Stanford 40 Dataset
       
-      Download the data from [here](https://www.cs.berkeley.edu/~gkioxari/RstarCNN/Stanford40.tar.gz) and place them inside `$ROOT/data` directory. R*CNN achieves 90.85% on the test set (trained models provided in 5)
+      Download the data from [here](https://www.dropbox.com/s/sltujilwhfae0s2/Stanford40.tar.gz?dl=0) and place them inside `$ROOT/data` directory. R*CNN achieves 90.85% on the test set (trained models provided in 5)
 
 4. Reference models
 	
-	Download the VGG16 reference model trained on ImageNet from [here](https://www.cs.berkeley.edu/~gkioxari/RstarCNN/reference_models.tar.gz) (500M)
+	Download the VGG16 reference model trained on ImageNet from [here](https://www.dropbox.com/s/8bn9jujcfc4pn01/reference_models.tar.gz?dl=0) (500M)
 
 5. Trained models
 	
-	Download the models as described in the paper from [here](https://www.cs.berkeley.edu/~gkioxari/RstarCNN/trained_models.tar.gz) (3.6G)
+	Download the models as described in the paper from [here](https://www.dropbox.com/s/ga2ojf2j7vsmjcf/trained_models.tar.gz?dl=0) (3.6G)
 
 
 
